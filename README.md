@@ -15,6 +15,21 @@ Me encuentro desarrollando proyectos prácticos y ejercicios como parte de mi ap
 [Node.js](https://nodejs.org/) ·
 [Express](https://expressjs.com/) ·
 
+### 📂 Repositorios destacados
+
+- 🔹 [MERAKI_STORE](https://github.com/AymaraC/MERAKI_STORE)  
+  > Proyecto backend desarrollado con TypeScript, Node.js y Express. Implementa manejo de CORS y datos en formato JSON.
+
+- 🔹 [ADA-TRABAJOS](https://github.com/AymaraC/ADA-TRABAJOS)  
+  > Repositorio con ejercicios y trabajos prácticos en JavaScript como parte de la formación académica.
+
+- 🔹 [TRABAJO-INTEGRADOR_ADA](https://github.com/AymaraC/TRABAJO-INTEGRADOR_ADA)  
+  > Trabajo integrador desarrollado en JavaScript como parte de la cursada.
+
+- 🔹 [Proyecto-integrador.Back-End](https://github.com/AymaraC/Proyecto-integrador.Back-End)  
+  > Proyecto backend utilizando Node.js con arquitectura MVC y comunicación cliente-servidor mediante TCP para la gestión de una biblioteca.
+
+
 ### 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/aymarcabanal)
