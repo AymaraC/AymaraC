@@ -1,6 +1,7 @@
-## Hola mi nombre es Aymara Belén Cabanal 👋 
+## Hola, soy Aymara Belén Cabanal 👋 
 
-💻 Estudiante de Desarrollo Backend, actualmente formándome en JavaScript y TypeScript.  
+💻 Estudiante de Desarrollo Backend, actualmente formándome en JavaScript y Node.js
+
 Me encuentro desarrollando proyectos prácticos y ejercicios como parte de mi aprendizaje, con foco en lógica, buenas prácticas y trabajo con APIs.
 
 ### 🛠️ Tecnologías
@@ -14,4 +15,8 @@ Me encuentro desarrollando proyectos prácticos y ejercicios como parte de mi ap
 [Node.js](https://nodejs.org/) ·
 [Express](https://expressjs.com/) ·
 
+### 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/aymarcabanal)
+- [Email](mailto:aymicabanal@hotmail.com)
 
