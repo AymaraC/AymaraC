@@ -21,7 +21,7 @@ Me encuentro desarrollando proyectos prácticos y ejercicios como parte de mi ap
   > Proyecto backend desarrollado con TypeScript, Node.js y Express. Implementa manejo de CORS y datos en formato JSON.
 
 - 🔹 [ADA-TRABAJOS](https://github.com/AymaraC/ADA-TRABAJOS)  
-  > Repositorio con ejercicios y trabajos prácticos en JavaScript como parte de la formación académica.
+  > Repositorio que contiene los ejercicios y trabajos prácticos realizados durante mi cursada en ADA ITW.
 
 - 🔹 [TRABAJO-INTEGRADOR_ADA](https://github.com/AymaraC/TRABAJO-INTEGRADOR_ADA)  
   > Trabajo integrador desarrollado en JavaScript como parte de la cursada.
